@@ -1,8 +1,12 @@
 <h1>DIE OR DIE TRYING YOU DIRTY HIPPIE</h1><br>
 <h1>{{(stepToDisplay | async)?.text }}</h1>
-<select *ngIf="(stepToDisplay | async)?.choices" name="choiceSelection" id="choiceSelection">
-<option [value]="(stepToDisplay | async)?.choices[0].choiceId">{{(stepToDisplay | async)?.choices[0].choiceText}}</option>
-<option [value]="(stepToDisplay | async)?.choices[1].choiceId">{{(stepToDisplay | async)?.choices[1].choiceText}}</option>
-</select>
-
-<button class="btn btn-large" (click)="nextChoice()">NEXT PAGE</button>
+<div *ngIf="(stepToDisplay | async)?.choices" >
+  <select name="choiceSelection" id="choiceSelection">
+    <option [value]="(stepToDisplay | async)?.choices[0].choiceId">{{(stepToDisplay | async)?.choices[0].choiceText}}</option>
+    <option [value]="(stepToDisplay | async)?.choices[1].choiceId">{{(stepToDisplay | async)?.choices[1].choiceText}}</option>
+  </select>
+  <button class="btn btn-large" (click)="nextChoice()">NEXT PAGE</button>
+</div>
+<div *ngIf="!(stepToDisplay | async)?.choices">
+  <p class="jumbotron">You are dead. Death offers no choices.</p>
+</div>

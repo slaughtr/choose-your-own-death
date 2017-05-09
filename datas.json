@@ -1,38 +1,108 @@
 { "steps": [{
-    "id": 1,
     "text": "Trip to Burning Man You are a dirty hippie trying to get laid. The only thing you have going for you is a lot of drugs. You decide to go to Burning Man to trade drugs for sex. Which way will you go? South on I-5 through the beautiful Willamette Valley or take US 26 across the Cascades and drive through eastern Oregon.",
     "choices": [{
       "choiceText": "South",
-      "choiceId": 2
+      "choiceId": 1
     },{
       "choiceText": "East",
-      "choiceId": 3
+      "choiceId": 2
     }]
   }, {
-    "id": 2,
     "text": "You barely make it out of Portland before you die in a fiery pile-up on I-5 South."
   }, {
-    "id": 3,
     "text": " The austere beauty of eastern Oregon almost makes you happy. Almost. You pass several small towns and you wonder whether you could make a genuine human connection with any of the inhabitants. Maybe then you wouldn't have to trade drugs for sex at Burning Man. But then a voice in the back of your head -- maybe your mother's -- makes you feel small, ugly, and dirty. Just after you slip across the border you smell burning rubber. Before you can think a tire explodes. You manage to wrestle the car to a stop. The smell of gasoline fills the air. As you climb out you see a pack of rabid, drooling Californians approaching. They look hungry.",
     "choices": [{
       "choiceText": "Burn the car",
-      "choiceId": 4
+      "choiceId": 3
     },{
       "choiceText": "Run, coward!",
-      "choiceId": 5
+      "choiceId": 4
     }]
   }, {
-    "id": 4,
     "text": " What a brilliant idea! As the Californians approach you toss your zippo at the car. The explosion is huge and intense. As it engulfs your backpack full of drugs you feel sad. You won't be trading those for sex. As it engulfs your body you think, \"Oh. Right.\""
   }, {
-    "id": 5,
     "text": "You throw your last delicious avocado at the Californians and stumble into the desert. You spend the night in panicked flight before stumbling exhausted into the brush. You awake in fright.",
     "choices": [{
       "choiceText": "Continue south on foot",
-      "choiceId": 6
+      "choiceId": 5
     }, {
       "choiceText": "Head east. Get as far from those Californians as you can.",
-      "choiceId": 7
+      "choiceId": 6
     }]
+  }, {
+    "text": "You reach the town of Surprise Station, CA. (Real fucking place. Look it up, fucker.) You are HUNGRY and as you might remember you have no avocados. You NEED to eat, NOW.",
+    "choices": [{
+      "choiceText": "Go to the diner.",
+      "choiceId": 7
+    }, {
+      "choiceText": "Go to the store.",
+      "choiceId": 8
+    }]
+  }, {
+    "text": "You head east into northern Nevada. Winds from the southwest blow tumbleweeds across your path. You stumble into a rundown ranch and meet Andy. \"This is Andy's place,\" Andy says. \"You're not Andy. What are you doin' here.\" He levels his shotgun at your face.",
+    "choices": [{
+      "choiceText": "Talk things over.",
+      "choiceId": 9
+    }, {
+      "choiceText": "You've had enough of this. FIGHT!",
+      "choiceId": 10
+    }]
+  }, {
+    "text": "You slide, exhausted, into a booth at the Diner. Something feels wrong. You have a brief moment of recognition as the waitress approaches your table. She was in the pack of rabid Californians last night when your car broke down. \"Surprise, motherfucker!\" she yells before you take a shotgun blast to the face."
+  }, {
+    "text" : "You arrive at the local Stab N Grab, stocked to the gills with all kinds of tasty treats. You even see more avocados! As you wander your way through the building, grabbing quinoa and kale and coconut, you begin to think \"Hey, I think I really might make it to Burning Man!\" \n    As you're paying, a group of super heady brahs walk in the door. They look pretty cool, so you approach them. \"Hey dudes, any chance you're heading to Burning Man?\" They all look up, a bit of a dead look in their eyes, and the tallest of them says, \"Yeah dude, we're headed there after we buy some hummus. You need a ride?\" And just like that, you might have finally caught your break.",
+    "choices": [{
+      "choiceText": "Go with the hippies.",
+      "choiceId": 11
+    }, {
+      "choiceText": "Tell them, \"It's not about the journey, man, it's about the destination...thanks anyway.\"",
+      "choiceId": 12
+    }]
+  }, {
+    "text" : "\"Hey man, I don't want any trou-\" you start to utter. Then, with no warning, Andy shoots you in your face."
+  }, {
+    "text": "Your impaired reflexes kick in. You leap towards Andy, grabbing the barrel of the gun and swinging it away from you. \n BOOM! The gun goes off! \n With a single punch to the neck with your dirty noodle arms, you lay Andy out. You lean over him, kicking the shotgun to the side. \n\n Andy is dead. A strange calm descends upon you.",
+    "choices": [{
+      "choiceText": "Raid Andy's house for any food for the rest of your journey.",
+      "choiceId": 13
+    }, {
+      "choiceText": "Leave Andy behind, heading south towards salvation",
+      "choiceId": 14
+    }]
+  }, {
+    "text": "You get in the hippies van with them, even carrying their hummus for them. Surprise! Manson Family! You die and go to hell!"
+  }, {
+    "text": "The hippies are offended and outraged that you refused their hospitality. Surprise! Manson Family! You die and go to hell!"
+  }, {
+    "text": "You are so hungry. You know you won't get far without food so you decide to check Andy's place for food. There's not much in his shack but then to your relief you find a root cellar fully stocked with canned vegetables, grains, roots, and strange meat jerky. Do you want to use the stove and cook something here or grab what you can carry and continue hiking south?",
+    "choices": [{
+      "choiceText": "I deserve a hot meal.",
+      "choiceId": 15
+    }, {
+      "choiceText": "Got to keep moving.",
+      "choiceId": 16
+    }]
+  }, {
+    "text": "You're really hungry. You stumble into the desert with visions of avocados dancing before your eyes. You are so, so hungry. Why didn't you look for food before you left Andy's place? You decide to eat some mushrooms from your pack. You hallucinate vividly before succumbing to dysentery. You die in the desert and vultures and grubs leave your bleached bones in the sun."
+  }, {
+    "text" : "It doesn't seem right to you to leave the only shelter you've seen for miles. Last night was, after all, really cold in the desert. So you cook yourself a nice warm meal. The strange meat jerky tastes a lot better reconstituted with water, and some peppers and potatoes make a satisfying meal. As relief washes over you, you fall asleep. \n \n When you awaken you are covered in rattlesnakes. They must have been drawn by your body heat. You:",
+    "choices": [{
+      "choiceText": "Freak out",
+      "choiceId": 17
+    }, {
+      "choiceText": "Calmly get up",
+      "choiceId": 17
+    }]
+  }, {
+    "text" : "After grabbing what you can easily carry (strange meat jerky mostly) you decide to move on quickly. Do you follow the road or cut across the open desert?",
+    "choices": [{
+      "choiceText": "The road",
+      "choiceId": 18
+    }, {
+      "choiceText": "The desert",
+      "choiceId": 19
+    }]
+  }, {
+    "text" : "You get bitten by snakes many, many times and slump to the floor of Andy's shack. The snakes snuggle close to you for warmth. Your body doesn't grow cold until morning. Then they slither away to bask in the sun. \n Days later you're found by Nevada Highway Patrol. It's a small consolation that your parents never learn what happened to you or what you did to Andy. You've been dead to them for years anyway."
   }]
 }

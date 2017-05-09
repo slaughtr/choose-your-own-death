@@ -104,5 +104,53 @@
     }]
   }, {
     "text" : "You get bitten by snakes many, many times and slump to the floor of Andy's shack. The snakes snuggle close to you for warmth. Your body doesn't grow cold until morning. Then they slither away to bask in the sun. \n Days later you're found by Nevada Highway Patrol. It's a small consolation that your parents never learn what happened to you or what you did to Andy. You've been dead to them for years anyway."
-  }]
+  }, {
+    "text" : "You have had enough of the open desert. You decide to follow the road and hopefully thumb a ride to Burning Man. After a few hours you finally hear a car. Had you looked you might have hidden, but instead you thoughtlessly wave down the NEVADA HIGHWAY PATROL. Who, as look would have it are looking for you. Well, actually they're looking for Andy's killer which is the same thing. Will you surrender or try to evade capture?",
+    "choices": [{
+      "choiceText": "Surrender. Andy tried to kill you, after all.",
+      "choiceId": 20
+    }, {
+      "choiceText": "Run!",
+      "choiceId": 21
+    }]
+  }, {
+    "text" : "You don't trust the road. Roads mean people, and people have brought you nothing but suffering so far. So after checking a map you decide to cut across the desert. You figure if you get close to Burning Man the sky will glow at night to guide you the rest of the way. Pretty good thinking. Too bad you didn't plan for the GILA MONSTER SWARM!!!",
+    "choices": [{
+      "choiceText": "Run! There's no reasoning with a Gila monster swarm.",
+      "choiceId": 22
+    }, {
+      "choiceText": "You've had enough of this. Fight!",
+      "choiceId": 23
+    }]
+  }, {
+    "text": "You decide to surrender to the cops. You may not make it to burning man, but there's no way running can end well for you. Besides, you killed Andy in self defense. Unfortunately, you are carrying POUNDS of controlled substances and strange meat jerky which testing reveals to be HUMAN FLESH. You die in the electric chair and go to hell."
+  }, {
+    "text": "You know there's no explaining the pounds of drugs in your backpack, so you decide to make a run for it. \"Stop or I'll shoot,\" the officer shouts. Too bad you didn't believe him. The first bullet barely grazes your skin and doesn't hurt too bad. The next thirteen bullets are terrible."
+  }, {
+    "text": "Although disturbing to look at, a gila monster swarm is really just a bunch of gila monsters. And that means slow in any language. You easily evade them and continue on your way to Burning Man. Eventually you see an orange throb in the sky and smell patchouli, b.o. and port-a-potties. You have arrived. As you approach you realize you don't have your ticket. You:",
+    "choices": [{
+      "choiceText": "Go to will call",
+      "choiceId": 24
+    }, {
+      "choiceText": "Sneak in",
+      "choiceId": 25
+    }]
+  }, {
+    "text" : "You are so amazingly stupid it's a wonder you've made it this far. To quote Dr. Ward in the Arizona Graphic, September 23, 1899: \"I think a man who is fool enough to get bitten by a Gila monster ought to die. The creature is so sluggish and slow of movement that the victim of its bite is compelled to help largely in order to get bitten.\" You should have just walked away from the swarm."
+  }, {
+    "text" : "You go to will call and explain that you haven't got your ticket. They look up your order and hand you a ticket. Burning Man has excellent customer service.",
+    "choices": [{
+      "choiceText": "Find some ladies who want to party",
+      "choiceId": 26
+    }, {
+      "choiceText": "Take your drugs and go looking for action",
+      "choiceId": 27
+    }]
+  }, {
+    "text" : "You never make it past the perimeter. You are immediately swarmed by nerds in night vision goggles. They kill you and steal your drugs and you die and go to hell."
+  }, {
+    "text" : "You begin your search with enthusiasm. This is Burning Man, after all! You made it! You're here and you're gonna get laid! You talk and talk and search and search. Before you know it, you've been at Burning Man for almost 3 days and still no ladies. You suddenly keel over of dehydration and hunger. No ladies stop to help, since you've creeped them all out. As death edges closer, you are buried by sand."
+  }, {
+    "text" : "You decide to just have some fun and see if you can get laid in the meantime. You swallow all the drugs that will fit in your dirty mouth and start walking towards the brightest light you can see. It's not long before everything starts kicking in, and the world turns into a wonderful rainbow. After meeting God and having a nice chat, God points you towards a beautiful woman. She's tall, lean, just a real hard body. He says, \"She's yours to do with as you wish.\" You make sweet, sweet, sweet whoopie with her for what feels like eternity. It's so good it feels like your body is on fire. In fact, your body IS on fire! You've been humping the giant Man all night, and now it's time for the Burning thereof. You're crisped before you can react, with your muscle control inhibited by the party going on in your brain. No one ever even knows you were there."
+        }]
 }

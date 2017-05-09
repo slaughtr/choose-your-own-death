@@ -1,0 +1,38 @@
+{ "steps": [{
+    "id": 1,
+    "text": "Trip to Burning Man You are a dirty hippie trying to get laid. The only thing you have going for you is a lot of drugs. You decide to go to Burning Man to trade drugs for sex. Which way will you go? South on I-5 through the beautiful Willamette Valley or take US 26 across the Cascades and drive through eastern Oregon.",
+    "choices": [{
+      "choiceText": "South",
+      "choiceId": 2
+    },{
+      "choiceText": "East",
+      "choiceId": 3
+    }]
+  }, {
+    "id": 2,
+    "text": "You barely make it out of Portland before you die in a fiery pile-up on I-5 South."
+  }, {
+    "id": 3,
+    "text": " The austere beauty of eastern Oregon almost makes you happy. Almost. You pass several small towns and you wonder whether you could make a genuine human connection with any of the inhabitants. Maybe then you wouldn't have to trade drugs for sex at Burning Man. But then a voice in the back of your head -- maybe your mother's -- makes you feel small, ugly, and dirty. Just after you slip across the border you smell burning rubber. Before you can think a tire explodes. You manage to wrestle the car to a stop. The smell of gasoline fills the air. As you climb out you see a pack of rabid, drooling Californians approaching. They look hungry.",
+    "choices": [{
+      "choiceText": "Burn the car",
+      "choiceId": 4
+    },{
+      "choiceText": "Run, coward!",
+      "choiceId": 5
+    }]
+  }, {
+    "id": 4,
+    "text": " What a brilliant idea! As the Californians approach you toss your zippo at the car. The explosion is huge and intense. As it engulfs your backpack full of drugs you feel sad. You won't be trading those for sex. As it engulfs your body you think, \"Oh. Right.\""
+  }, {
+    "id": 5,
+    "text": "You throw your last delicious avocado at the Californians and stumble into the desert. You spend the night in panicked flight before stumbling exhausted into the brush. You awake in fright.",
+    "choices": [{
+      "choiceText": "Continue south on foot",
+      "choiceId": 6
+    }, {
+      "choiceText": "Head east. Get as far from those Californians as you can.",
+      "choiceId": 7
+    }]
+  }]
+}

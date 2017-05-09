@@ -7,6 +7,18 @@ import { AppComponent } from './app.component';
 import { ShamblingHallsOfCreepingDeathComponent } from './shambling-halls-of-creeping-death/shambling-halls-of-creeping-death.component';
 import { YouAreANarcissistComponent } from './you-are-a-narcissist/you-are-a-narcissist.component';
 
+import { masterFirebaseConfig } from './api-keys';
+import { AngularFireModule } from 'angularfire2';
+import { AngularFireDatabaseModule,  } from 'angularfire2/database';
+
+export const firebaseConfig = {
+  apiKey: masterFirebaseConfig.apiKey,
+  authDomain: masterFirebaseConfig.authDomain,
+  databaseURL: masterFirebaseConfig.databaseURL,
+  storageBucket: masterFirebaseConfig.storageBucket
+};
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -16,7 +28,9 @@ import { YouAreANarcissistComponent } from './you-are-a-narcissist/you-are-a-nar
   imports: [
     BrowserModule,
     FormsModule,
-    HttpModule
+    HttpModule,
+    AngularFireModule.initializeApp(firebaseConfig),
+    AngularFireDatabaseModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
